@@ -29,7 +29,4 @@ contract Test {
 
         TokenCorrect t = TokenCorrect(_token);
 
-        uint xPre = t.balanceOf(address(this));
-        require(xPre >= _amt);
-
-        Good luck
+        uint xPre = t.balanceOf(address(this))
