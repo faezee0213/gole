@@ -1,7 +1,7 @@
 # gole
 
 // SPDX-License-Identifier: GPL-3.0.1.0
-pragma solidity >=0.8.3;
+pragma solidity >=0;
 
 interface Token {
     function balanceOf(address _a) external view returns (uint);
