@@ -3,7 +3,7 @@
 // SPDX-License-Identifier: GPL-3.0
 pragma solidity >=
 interface Token {
-    function balanceOf(address _a) external view returns (uint);
+    functibalanceOf(address _a) external view returns (uint);
     function  _to, uint _amt) 
 }
 
