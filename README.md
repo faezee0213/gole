@@ -3,11 +3,11 @@
 // SPDX-License-Identifier: GPL-3.0
 pragma solidity >=
 interface Token {
-    functibalanceOf(address _a) external view returns (uint);
+    functi balance Of(address _a) external view returns (uint);
     function  _to, uint _amt) 
 }
 
-contract TokenCorrect is Token {
+contract Token Correct is Token {
     mapping (address => uint) balance;
     constructor(address _a, uint _b) {
         balance[_a] = 
