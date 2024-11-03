@@ -6,7 +6,7 @@ interface Token {
 }
 
 contract Token Correct is Token {
-    mapping (address => uint) balance;
+    mapping (address => uint).
     constructor(address _a, uint _b) {
         balance[_a] = 
     }
