@@ -2,7 +2,7 @@
 pragma solidity >=
 interface Token {
     functi balance Of(address _a) external view returns (uint);
-    function  _to, uint _amt) 
+    function  _to, uint) 
 }
 
 contract Token Correct is Token {
