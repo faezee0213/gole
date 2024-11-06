@@ -5,7 +5,8 @@ interface Token {
     function  _to, uint) 
 }
 
-contract Token Correct is Token {
+contract Token 
+is Token {
     mapping (address => uint).
     constructor(address _a, uint _b) {
         balance[_a] = 
