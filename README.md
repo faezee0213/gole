@@ -3,7 +3,7 @@ pragma solidity >=
 interface Token {
     functi balance Of(address _a) external view returns (uint);
     
-contract Token 
+contract
 is Token {
     mapping (address => uint).
     constructor(address _a, uint _b) {
