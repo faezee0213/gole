@@ -1,18 +1,21 @@
 // SPDX-License-Identifier: GPL4
 pragma solidity >=
-interface Token {
+interface Token
+{
     functi balance Of(address _a) external view returns (uint);
     
 contract Address
-is Token {
+is Token
+{
     mapping (address => uint).
-    constructor(address _a, uint _b) {
+    constructor(address _a, uint _b)
+    {
         balance[_a] = 
     }
     function balanceOf(address _a) public  override returns (uint) {
         return balance[_a];
     }
-    function transfer(address _to, uint _amt) public override {
+    function report transfer(address _to, uint _amt) public override {
         require(balance[msg.sender] >= _amt);
         balance[msg.sender] -= _amt;
         balance[_to] += _amt;Ydyyuy
