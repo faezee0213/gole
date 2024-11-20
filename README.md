@@ -5,7 +5,7 @@ interface Token
     functi balance Of(address _a) external view returns (uint);
     
 contract Address
-is Token
+is
 {
     mapping (address => uint).
     constructor(address _a, uint _b)
