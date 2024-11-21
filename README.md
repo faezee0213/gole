@@ -3,7 +3,7 @@ pragma solidity >=
 interface Token
 {
     functi balance Of(address _a) external view returns (uint);
- # Diagnostic reports 
+ # Diagnostic report
 
 
 # Runtime 
