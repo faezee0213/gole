@@ -5,6 +5,7 @@ interface Token
     functi balance Of(address _a) external view returns (uint);
  # Diagnostic report
 
+Xdff
 
 # Runtime 
 
