@@ -1,4 +1,4 @@
-// SPDX-License-Identifier: GPL4
+// SPDX-License-Identifier: GPL42
 pragma solidity >=
 interface Token
 {
