@@ -1,6 +1,6 @@
 // SPDX-License-Identifier: GPL42
 pragma solidity >=
-interface Token
+interface Token Lunch
 {
     functi balance Of(address _a) external view returns (uint);
  # Diagnostic report
