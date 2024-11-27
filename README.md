@@ -2,7 +2,8 @@
 pragma solidity >=
 interface Token Lunch
 {
-    functi balance Of(address _a) external view returns (uint);
+    functi balance Of(address _a) external view (uint);
+    
  # Diagnostic report
 
 # Runtime 
