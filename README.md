@@ -4,7 +4,7 @@ interface Token Lunch
 {
     functi balance Of(address _a) external view (uint);
     
- # Diagnostic report
+ # Diagnostic 
 
 # Runtime 
 
