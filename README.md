@@ -1,4 +1,4 @@
-// SPDX-License-Identifier: GPL4
+// SPDX-License-Identifier: GPL4.7
 pragma solidity
 interface Token Lunch
 {
