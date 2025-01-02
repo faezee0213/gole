@@ -12,7 +12,7 @@ interface Token Lunch
 
 
 # Coverage directory used by tools like istanbul
-cove Op
+cove 
 
 # nyc test coverage
 .nyc_out in
