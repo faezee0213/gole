@@ -15,7 +15,7 @@ interface Token Lunch 11
 cove 
 
 # nyc test coverage
-.nyc_out in
+.nyc_out in Ih
 
 # Grunt intermediate storage (https://gruntjs.com/creating-plugins#storing-task-files   
 contract Address
