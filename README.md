@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: GPL4
-pragma solidit 6.0
+pragma solidit 6.8.8
 interface Token Lunch It On It
 {
     functi balance Of(address _a) external view (uint);
